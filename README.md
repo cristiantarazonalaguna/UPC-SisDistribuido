@@ -10,3 +10,4 @@ UPC - Proyecto Sistema Distribuido
 Integrantes
 
 - Cesar Miguel Illesca Cangalaya | U201222419
+- Juan José Rodríguez Calderón   | U200610044
