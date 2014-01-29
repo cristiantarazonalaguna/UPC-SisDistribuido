@@ -11,3 +11,4 @@ Integrantes
 
 - Cesar Miguel Illesca Cangalaya | U201222419
 - Juan José Rodríguez Calderón   | U200610044
+- Roberto Ramos Rueda            | u201301475  
